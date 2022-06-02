@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Georgiy.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=B3E8E5&multiline=true&lines=I'm+studying+SWIFT)](https://git.io/typing-svg)
 
