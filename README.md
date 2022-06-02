@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&multiline=true&lines=I'm+studying+SWIFT+)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=2F8F9D&multiline=true&lines=I+want+to+become+a+Junior+iOS)](https://git.io/typing-svg)
+
 
 <!--
 **georg1856/georg1856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
