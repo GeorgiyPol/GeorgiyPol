@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=3BACB6&multiline=true&lines=I+want+to+become+a+Junior+iOS+Developer)](https://git.io/typing-svg)
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
 
 
 <!--
