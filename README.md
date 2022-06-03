@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Georgiy.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=B3E8E5&multiline=true&lines=I'm+studying+SWIFT)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=3BACB6&multiline=true&lines=I+want+to+become+a+Junior+iOS+Developer)](https://git.io/typing-svg)
 
 ## Languages:
