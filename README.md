@@ -3,7 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=B3E8E5&multiline=true&lines=I'm+studying+SWIFT)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=3BACB6&multiline=true&lines=I+want+to+become+a+Junior+iOS+Developer)](https://git.io/typing-svg)
 
-
+## Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+</div>
 
 
 <!--
