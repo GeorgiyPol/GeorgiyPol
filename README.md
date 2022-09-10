@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Georgiy.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=B3E8E5&multiline=true&lines=I'm+studying+SWIFT)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Marathi&color=3BACB6&multiline=true&lines=I+want+to+become+a+Junior+iOS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=B7C4CF&width=435&lines=Junior+iOS+developer)](https://git.io/typing-svg)
 
 ## Language:
 <div>
@@ -12,7 +11,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xCode" alt="xCode" width="40" height="40"/>&nbsp;
 </div>
-
 
 <!--
 **georg1856/georg1856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
