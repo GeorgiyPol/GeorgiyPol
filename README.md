@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Georgiy.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=B7C4CF&width=435&lines=Junior+iOS+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=B7C4CF&width=435&lines=iOS+developer)](https://git.io/typing-svg)
 
 ## Language:
 <div>
